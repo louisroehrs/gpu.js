@@ -2,6 +2,10 @@
 bin/*.js
 doc/*
 
+#emacs 
+*~
+.DS_Store
+
 # Logs
 logs
 *.log
